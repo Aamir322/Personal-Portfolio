@@ -1,6 +1,6 @@
 # Portzi - Personal Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/Portzi)
+![GitHub repo size](https://github.com/Aamir322/Personal-Portfolio/blob/main/index.html https://github.com/Aamir322/Personal-Portfolio/tree/main/assets/css https://github.com/Aamir322/Personal-Portfolio/blob/main/assets/img/about.pgn.jpg)
 ![GitHub stars](https://img.shields.io/github/stars/xeventech/Portzi?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/xeventech/Portzi?style=social)
 [![YouTube Video Views](https://img.shields.io/youtube/views/fnHl-V2_8P4?style=social)](https://youtu.be/fnHl-V2_8P4)
