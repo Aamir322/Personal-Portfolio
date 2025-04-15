@@ -32,9 +32,9 @@ git clone https://github.com/xeventech/Portzi.git
 
 ## ▶️ Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/Portzi/thumbnail.png?raw=true "Play")](https://youtu.be/fnHl-V2_8P4)
+[![Watch Video]()
 
 
 ## ❤️ Thank you for reading, here's a cat:
 
-[![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You ❤️")](https://youtube.com/@XevenTechYT?sub_confirmation=1)
+[![Cat])
