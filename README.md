@@ -6,7 +6,7 @@
 
 Responsive Personal Portfolio Website Built using HTML, CSS and JavaScript.
 
-[![Portfolio Demo](https://github.com/XevenTech/projects_snapshots/blob/main/Portzi/preview.png?raw=true "Portfolio Demo")](https://xeventech.github.io/Portzi/)
+[![Portfolio Demo](https://github.com/Aamir32/projects_snapshots/blob/main/Portzi/about.pgn.jpg=true "Portfolio Demo")](https://Aamir322 github.com/Portzi/)
 
 ## Prerequisites
 
