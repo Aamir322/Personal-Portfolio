@@ -1,8 +1,8 @@
 # Portzi - Personal Portfolio Website
 
 ![GitHub repo size](https://github.com/Aamir32/projects_snapshots/blob/main/Portzi/about.pgn.jpg=true "Portfolio Demo")](https://Aamir322 github.com/Portzi/)
-![GitHub forks](https://img.shields.io/github/forks/xeventech/Portzi?style=social)
-[![YouTube Video Views](https://img.shields.io/youtube/views/fnHl-V2_8P4?style=social)](https://youtu.be/fnHl-V2_8P4)
+![GitHub forks]()
+[![YouTube Video Views]()
 
 Responsive Personal Portfolio Website Built using HTML, CSS and JavaScript.
 
